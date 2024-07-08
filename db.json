@@ -1,9 +1,170 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "user": [
+    {
+      "email": "dgeg",
+      "senha": "151515",
+      "nascimento": "2003-06-12",
+      "tipo": "tatuador",
+      "nome": "sdvdsvdsv",
+      "bio": "svdvds",
+      "exp": "vsdfvd",
+      "end": "sdvsdv",
+      "insta": "fdvfdd",
+      "face": "",
+      "categoria": "Tradicional Japanese",
+      "fotoperfil": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+      "fotos": [
+        "https://i.pinimg.com/564x/67/aa/6b/67aa6b2b9aac1b0fd11ab30e85156918.jpg",
+        "https://img.freepik.com/fotos-gratis/maos-luvas-tatuagem_23-2147834092.jpg?t=st=1719153101~exp=1719156701~hmac=a9d58f375a6b2c363d53d688be56f4bd2ba0cdfc82fd40155e10386d738fde2b&w=740",
+        "https://img.freepik.com/fotos-gratis/mestre-limpando-a-tatuagem-no-braco_23-2147834084.jpg?t=st=1719153204~exp=1719156804~hmac=222218bc1b5dc00caf105bd5840dbc2f3c0ebfc3a63eb04980ec8c75e9c665cd&w=740",
+        "https://i.pinimg.com/564x/81/eb/8d/81eb8d017ca78d037c1d410ddf79470a.jpg"
+      ],
+      "estudio": "sdvsdv",
+      "id": "d22qqx5",
+      "whats": "12324333251233"
+    },
+    {
+      "email": "julius7sc@gmail.com",
+      "senha": "151515",
+      "nascimento": "2004-10-15",
+      "tipo": "tatuador",
+      "nome": "Julio Avila",
+      "bio": "Júlio é um talentoso tatuador de 19 anos que vem conquistando seu espaço no mundo da tatuagem com sua impressionante habilidade em Black Work. Desde jovem, Júlio sempre foi fascinado por arte e desenho, o que o levou a explorar a tatuagem como forma de expressão artística.\n\nApaixonado por linhas precisas e contrastes marcantes, Júlio encontrou no Black Work a técnica perfeita para dar vida às suas ideias e criar obras de arte na pele de seus clientes. Seu estilo único e detalhado reflete sua dedicação e criatividade, resultando em tatuagens que são verdadeiras peças de arte.",
+      "exp": "2 Anos de Experiência da área",
+      "end": "",
+      "insta": "",
+      "face": "",
+      "categoria": "Black Work",
+      "fotoperfil": "https://img.freepik.com/fotos-gratis/tatuador-de-tiro-medio-fazendo-seu-trabalho_23-2149525943.jpg?t=st=1719094373~exp=1719097973~hmac=96f5f5fe5f5a99f8cb240cfab621b28bfe39ec2e1e183bdcb221e78bc0d9f23d&w=360",
+      "fotos": [
+        "https://img.freepik.com/fotos-gratis/maos-luvas-tatuagem_23-2147834092.jpg?t=st=1719153101~exp=1719156701~hmac=a9d58f375a6b2c363d53d688be56f4bd2ba0cdfc82fd40155e10386d738fde2b&w=740",
+        "https://img.freepik.com/fotos-gratis/mestre-limpando-a-tatuagem-no-braco_23-2147834084.jpg?t=st=1719153204~exp=1719156804~hmac=222218bc1b5dc00caf105bd5840dbc2f3c0ebfc3a63eb04980ec8c75e9c665cd&w=740",
+        "https://i.pinimg.com/564x/81/eb/8d/81eb8d017ca78d037c1d410ddf79470a.jpg",
+        "https://i.pinimg.com/736x/87/63/d2/8763d2b8659bcef237ebc4115e166fe4.jpg"
+      ],
+      "estudio": "Ávila Tattoo",
+      "id": "xu9nzkb"
+    },
+    {
+      "id": "1",
+      "nome": "Carol Costa",
+      "email": "usuario1@gmail.com",
+      "senha": "151515",
+      "estudio": "Mestre Tattoo",
+      "nascimento": "1995-05-15",
+      "bio": "Gabi Costa é uma tatuadora especializada em estilo Neo Trad. Com anos de experiência, ela é responsável por eternizar qualquer animalzinho na sua pele! Além de dominar anatomia dosbichinhos,ela emprega belíssimas cores em suas obras!",
+      "end": "Av. das indústrias - 350, Vila Olga / Santa Luzia - MG",
+      "exp": "Experiência em Neo Trad, tatuagens de animais e tatuagens coloridas.",
+      "whats": "https://www.whatsapp.com",
+      "insta": "https://www.instagram.com",
+      "tipo": "cliente",
+      "categoria": "Neo Trad",
+      "estrelas": "5",
+      "fotoperfil": "imgs/medium-shot-smiley-tattoo-artist-indoors.jpg",
+      "fotos": [
+        "https://i.pinimg.com/564x/8b/30/bd/8b30bdc9c7c5a77190f6d263b348ee4e.jpg",
+        "imgs/hand-neo-1160x1431.jpg",
+        "imgs/gypsy-oldschool-tattoo.jpg",
+        "https://img.freepik.com/fotos-gratis/foto-de-foco-seletivo-da-mao-de-um-tatuador-usando-uma-luva-preta-e-segurando-uma-arma-de-tatuagem_181624-21033.jpg?t=st=1719055098~exp=1719058698~hmac=bac10f9e06eca6475d4c1849399e6b8abc5f8f7e11559a5014f93fde3225fb4f&w=360"
+      ]
+    },
+    {
+      "email": "dokiloko@outlook.com",
+      "senha": "244vidaloka",
+      "nascimento": "1999-09-14",
+      "tipo": "tatuador",
+      "nome": "Doki",
+      "bio": "Tatuador especialiado em lettering, ",
+      "exp": "7 anos de carreira na área, professor de tatuagem.",
+      "end": "Rua das Várzeas, 171 - Bonanza / Santa Luzia - MG",
+      "insta": "@DiscriminadosTattooShop",
+      "face": "",
+      "categoria": "Old School",
+      "fotoperfil": "https://i.pinimg.com/564x/14/2b/70/142b70a52a134c5760a63f3d42812c32.jpg",
+      "fotos": [
+        "https://i.pinimg.com/736x/b2/ba/0e/b2ba0e707199c4b97c18859bfe073045.jpg",
+        "https://img.freepik.com/psd-gratuitas/ilustracao-de-tatuagem_23-2150690197.jpg?t=st=1719195137~exp=1719198737~hmac=5446694b47b5bc0a4f90a83d9867bb84bc5cb4bdec2a2edaa2735fd510b6a5d4&w=740",
+        "https://img.freepik.com/fotos-gratis/homem-bonito-com-camiseta-branca-e-calca-preta-estudio-tiro_53876-105701.jpg?t=st=1719194951~exp=1719198551~hmac=46eb951bab90c8f8504d7f3e2538dcddc5fd4d7970906efa8202aa411f22e336&w=740"
+      ],
+      "estudio": "Discriminados Tatto Shop",
+      "id": "g_g2M7o",
+      "whats": "31(900hioehhd"
+    },
+    {
+      "email": "pedropdh@gmail.com",
+      "senha": "151515",
+      "nascimento": "1990-06-13",
+      "tipo": "tatuador",
+      "nome": "Pedro Henrique",
+      "bio": "",
+      "exp": "",
+      "end": "Rua São Joaquim, 132, Sagrada Família - Belo Horizonte / MG",
+      "insta": "",
+      "face": "",
+      "categoria": "Realista",
+      "fotoperfil": "https://i.pinimg.com/564x/ec/5c/8e/ec5c8ef36bd39a5433948537f7dce17b.jpg",
+      "fotos": [
+        "https://i.pinimg.com/564x/43/f4/92/43f4924f5e0dc0f9bc3f381cb6984a5c.jpg",
+        "https://i.pinimg.com/564x/23/d0/a3/23d0a315c3ddfcfd360548ed1ac84510.jpg",
+        "https://i.pinimg.com/564x/c0/53/7a/c0537adf7118ff8ad18dbf2e44186d79.jpg"
+      ],
+      "estudio": "PH Tattoo",
+      "id": "YQvoWjQ"
+    },
+    {
+      "email": "kelvinho@gmail.com",
+      "senha": "151515",
+      "nascimento": "2001-11-12",
+      "tipo": "tatuador",
+      "nome": "",
+      "bio": "",
+      "exp": "",
+      "end": "",
+      "insta": "",
+      "face": "",
+      "categoria": "Tribal",
+      "fotoperfil": "https://i.pinimg.com/564x/a0/e5/65/a0e565024139c5748c94b1463d69f1b2.jpg",
+      "fotos": [
+        "https://i.pinimg.com/564x/49/7e/7e/497e7ed1313c8eb2c6295bd0c5f2b126.jpg",
+        "https://img.freepik.com/vetores-gratis/elemento-de-borda-de-tatuagem-maori_23-2150927341.jpg?t=st=1719194879~exp=1719198479~hmac=a236f9b2f34dcdfe654594777d11f36bf7ab64b87ee79e20cd2221e3e3d202f3&w=740",
+        "https://img.freepik.com/fotos-gratis/homem-bonito-com-camiseta-branca-e-calca-preta-estudio-tiro_53876-105701.jpg?t=st=1719194951~exp=1719198551~hmac=46eb951bab90c8f8504d7f3e2538dcddc5fd4d7970906efa8202aa411f22e336&w=740"
+      ],
+      "estudio": "",
+      "id": "adraGub"
+    },
+    {
+      "email": "kelvinlemos@gmail.com",
+      "senha": "151515",
+      "nascimento": "2000-07-27",
+      "tipo": "cliente",
+      "nome": "",
+      "bio": "",
+      "exp": "",
+      "end": "",
+      "insta": "",
+      "face": "",
+      "categoria": "",
+      "fotoperfil": "https://img.freepik.com/vetores-gratis/moedas-de-dolar-caindo-sucesso-sorte-dinheiro-conceito-de-investimento_1262-13463.jpg?t=st=1719229451~exp=1719233051~hmac=09ca08b1da04cc16737be999806f4d8557213fe216a535693bc5869e88e0f4a4&w=740",
+      "fotos": [],
+      "estudio": "",
+      "id": "ygwhtPF"
+    },
+    {
+      "email": "kelvinlemos@gmail.com",
+      "senha": "151515",
+      "nascimento": "2000-07-27",
+      "tipo": "cliente",
+      "nome": "",
+      "bio": "",
+      "exp": "",
+      "end": "",
+      "insta": "",
+      "face": "",
+      "categoria": "",
+      "fotoperfil": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+      "fotos": [],
+      "estudio": "",
+      "id": "---0CtA"
+    }
+  ]
 }
